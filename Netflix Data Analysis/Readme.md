@@ -2,13 +2,8 @@
 
 This project explores the Netflix dataset using Tableau, a powerful data visualization tool. It aims to analyze and visualize various aspects of Netflix's content catalog and provide insights into the streaming platform.
 
-## Table of Contents
-
-- [Description](#description)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
+## Project Link:
+https://public.tableau.com/app/profile/satyajeet.patil/viz/NetflixProject-TableauDashboard_17035917432530/Netflix
 
 ## Description
 
@@ -29,10 +24,10 @@ The dataset used for this project is the Netflix Movies and TV Shows dataset ava
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/shaadclt/Netflix-Data-Analysis-Tableau.git`
-2. Navigate to the project directory: `cd Netflix-Data-Analysis-Tableau`
+1. Clone the repository: `git clone https://github.com/Sourav1707/Tableau.git`
+2. Navigate to the project directory: `cd Netflix-Data-Analysis`
 3. Open Tableau and import the dataset (`netflix_titles.csv`) into your Tableau workspace.
-4. Explore the Tableau workbook (`Netflix Dashboard.twbx`) to view the visualizations and dashboards.
+4. Explore the Tableau workbook (`Netflix Project - Tableau Dashboard.twbx`) to view the visualizations and dashboards.
 
 Note: You need to have Tableau Desktop or Tableau Public installed to open and interact with the Tableau workbook.
 
@@ -40,7 +35,7 @@ Note: You need to have Tableau Desktop or Tableau Public installed to open and i
 
 To use this project as a starting point for your own data analysis or to enhance the existing visualizations, you can:
 
-1. Open the Tableau workbook (`Netflix Dashboard.twbx`) in Tableau Desktop or Tableau Public.
+1. Open the Tableau workbook (`Netflix Project - Tableau Dashboard.twbx`) in Tableau Desktop or Tableau Public.
 2. Modify the existing visualizations or create new ones based on your requirements.
 3. Customize the dashboards and layout to present your insights effectively.
 
